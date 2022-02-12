@@ -1,7 +1,7 @@
 <p align="center">  
 <h1 align="middle">:moneybag:  자바 콘솔 프로젝트 - SYBANK  :moneybag:</h1>
 <p align="center">
-<img src="https://user-images.githubusercontent.com/97592294/153452773-453e144c-9abe-4c25-b10e-c1d20a9f0507.png" width="800" />
+<img src="https://user-images.githubusercontent.com/97592294/153728409-39514a82-3297-4e00-8e4a-b11c93e19b19.png" width="800" />
 </p>
 
 
